@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: auto;
+  max-width: 400px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+.form > input{
+  width: 300px;
+}
+.results {
+  display: flex;
+  flex-direction: column;
+}
+.results ul {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+}
